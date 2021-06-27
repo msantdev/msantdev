@@ -1,6 +1,6 @@
  Hi there, I'm Mariano Santoro. Currently working as React Developer  👋
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Next.js
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Love playing and watching football. Family first.
 
