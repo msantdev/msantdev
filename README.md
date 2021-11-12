@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning GraphQL
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: Love playing and watching football. Family first.
+- Languages: Spanish, English. Currently learning German.
 
 ### Languages and Tools:
 <br />
